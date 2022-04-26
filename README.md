@@ -1,6 +1,7 @@
-### Hi there 👋
-Bem vindo ao meu repositório, projetos academicos e pessoais são guardados aqui, aproveite se precisar!
 
+<h1>
+  Bem vindo ao meu repositório, projetos academicos e pessoais são guardados aqui, aproveite se precisar!
+</h1>
 
 
 <!--
