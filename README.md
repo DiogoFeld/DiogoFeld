@@ -1,6 +1,6 @@
 
 <h1>
-  Bem vindo ao meu repositório,. Projetos academicos e pessoais são guardados aqui. Aproveite se precisar!
+  Bem vindo ao meu repositório. Projetos academicos e pessoais são guardados aqui. Aproveite se precisar!
 </h1>
 
 
